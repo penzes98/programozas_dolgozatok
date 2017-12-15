@@ -1,0 +1,64 @@
+/*csslint order-alphabetical: false*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+    padding: 50px;
+    background-color: #488ccd;
+}
+.felso{
+    font-weight: 200;
+    font-size: 30px;
+    margin: 40px 0 40px 0;
+    color: white;
+ 
+}
+
+.fomenu{
+    width: 800px;
+    background-color: #284c80;
+    
+    
+}
+.menupontok{
+    margin: 20px 0 20px 20px;
+    display: inline-block;
+    color: rgb(188,248,255);
+    
+}
+.menupontok:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: underline;
+    
+    
+}
+
+.cim{
+    margin-bottom: 5px;
+    font-size: 40px;
+    color:rgb(237,245,255);
+     
+}
+.datum{
+    font-style: italic;
+    color: #284c80;
+    font-size: 14px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    
+}
+.mese{
+    width: 800px;
+    color:white;
+    line-height: 1.7;
+}
+.bevezeto-mese{ 
+    
+    font-size: 20px;
+    margin-bottom: 40px;
+    
+}
+
+  
+
+
