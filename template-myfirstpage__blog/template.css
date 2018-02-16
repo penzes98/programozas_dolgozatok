@@ -1,0 +1,63 @@
+/*csslint fallback-colors: false, order-alphabetical: false, box-model: false*/
+
+body{
+    background: black;
+    color: white;
+    margin: 0;
+    font-family: arial;
+}
+
+.main-menu-item{
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+}
+.main-menu{ 
+    border-bottom: 2px solid white;
+    width: 500px;
+    margin: 0 auto;
+    
+}
+.datum{
+    font-style: italic;
+    color: darkgray;
+    font-size: 14px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+.main-menu-container{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.tartalom{
+    background: gray;
+    width: 50%;
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 50px
+}
+.alul{
+   text-align: center;
+    font-style: italic;
+    
+}
+img{
+    display: inline-block;
+    width: 320px;
+    margin: 0 auto;
+    
+}
+.kep{
+    text-align: center;
+}
+footer{
+    position: relative;
+    text-align: center;
+    color: white;
+   background-color:  dimgray;
+    padding: 20px 0 50px 0;
+    
+}
+
